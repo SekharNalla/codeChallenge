@@ -78,8 +78,8 @@ public class Home extends ActionBarActivity implements LocationListener {
 	// End app-specific settings. //
 
 	final static private String ACCOUNT_PREFS_NAME = "prefs";
-	final static private String ACCESS_KEY_NAME = "ACCESS_KEY";
-	final static private String ACCESS_SECRET_NAME = "ACCESS_SECRET";
+	final static private String ACCESS_KEY_NAME = "hakldli3togb5am";
+	final static private String ACCESS_SECRET_NAME = "w7mjyr1ame8tcbv";
 
 	private static final boolean USE_OAUTH1 = false;
 
